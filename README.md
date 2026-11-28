@@ -1,6 +1,7 @@
 # Deteksi Anomali Aliran Daya & Susut Non-Teknis pada Sistem Metering Transmisi
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/elzebrejv87/adkp-metering-anomaly-detection/blob/main/Metering_Anomaly_Detection.ipynb)
+[![Open Dashboard](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ALAMAT_WEB_STREAMLIT_ANDA.streamlit.app)
 
 **Mata Kuliah:** Analisa Data dan Keselamatan Proses (ADKP)  
 **Program Studi:** Magister Manajemen Keselamatan Proses — Departemen Teknik Kimia, Universitas Indonesia  
